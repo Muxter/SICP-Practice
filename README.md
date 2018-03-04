@@ -1,4 +1,4 @@
-# SICP-Practice
+# sicp-exercises
 Exercises of *Structure and Interpretation of Computer Programs*
 
 ### Reference
